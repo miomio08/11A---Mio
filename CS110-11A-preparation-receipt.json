@@ -1,0 +1,25 @@
+{
+  "course": "CS110",
+  "action": "11A",
+  "engineRoute": "unity",
+  "recordedNoteSections": [
+    "gitcheck",
+    "accord",
+    "brief",
+    "transfer",
+    "base",
+    "extension"
+  ],
+  "createdAt": "2026-11-05T21:36:57.856Z",
+  "status": "learner preparation declaration; not verified completion, attendance, submission or grade",
+  "individualWorkRequired": true,
+  "attentionAccordRequired": true,
+  "minimumTeamPlanningMinutes": 10,
+  "workMode": "solo",
+  "personalRepository": "https://github.com/miomio08/11A---Mio",
+  "teamRepository": null,
+  "repositoryChecks": "learner must test local/pushed files and URLs; not automatically verified",
+  "submission": "One personal GitHub repository URL through each learner’s Canvas assignment; team URL in personal README if applicable",
+  "points": 15,
+  "due": "2026-11-03T15:05:00-08:00"
+}
